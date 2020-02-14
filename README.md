@@ -11,6 +11,4 @@ We changed the code so that training and testing can be performed in Jupyter not
 
 ----------------
 The results from the original paper have been successfully reproduced with better or comparable results except for the ResNet1202 model since Google Colab does not support enough (16GB) memory usage on GPU for this experiment.
-
-----------------
-We provided the pretrained models in this repository for evaluation purposes.
+We also provided the pretrained models in this repository for evaluation purposes.

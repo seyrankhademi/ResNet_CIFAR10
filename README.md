@@ -4,8 +4,9 @@ This repository includes an Ipython notebook written by Seyran Khademi as an exa
 
 ----------------
 The Pytorch implementation of the ResNet architecture used in the notebook is based on the publicly available code
-1. https: //github.com/pytorch/vision/blob/master/torchvision/models/resnet.py
+1. https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py
 2. https://github.com/akamaster/pytorch_resnet_cifar10.
+
 We changed the code so that training and testing can be performed in Jupyter notebook via Google Colab.
 
 ----------------
